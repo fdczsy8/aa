@@ -16,6 +16,15 @@
       "api": "csp_Dygang",
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/fix24726.jar"
     },
+        {
+      "key": "优质",
+      "name": "优质┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/fix24726.jar"
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"
+    },
        {
       "key": "厂长影院",
       "name": "厂长影院",
@@ -260,6 +269,30 @@
         "site": "http://mogg.top",
         "danmu": true
       }
+    },
+        {
+      "key": "AI2",
+      "name": "AI2┃仅搜索",
+      "type": 3,
+      "api": "csp_AI",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/巧技.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ=="
+    },
+    {
+      "key": "AI3",
+      "name": "AI3┃仅搜索",
+      "type": 3,
+      "api": "csp_AI",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/巧技.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp"
     },
        {
       "key": "AI4",
