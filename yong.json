@@ -6,35 +6,35 @@
       "name": "豆瓣｜首页",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "./jar/牛逼.jar",
+      "jar": "./牛逼.jar",
       "searchable": 0
     },
        {
       "key": "腾讯视频",
       "name": "腾讯｜视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./JS/drpy2.min.js",
       "ext": "./JS/腾讯视频.js"
     },
      {
       "key": "爱奇艺",
       "name": "爱奇艺｜视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./JS/drpy2.min.js",
       "ext": "./JS/爱奇艺.js"
     },
     {
       "key": "优酷视频",
       "name": "优酷｜视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./JS/drpy2.min.js",
       "ext": "./JS/优酷视频.js"
     },
     {
       "key": "芒果视频",
       "name": "芒果｜视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./JS/drpy2.min.js",
       "ext": "./JS/芒果视频.js"
     },
     {
