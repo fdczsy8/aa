@@ -6,7 +6,7 @@
       "name": "豆瓣｜首页",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "./牛逼.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main//牛逼.jar",
       "searchable": 0
     },
     {
@@ -14,7 +14,7 @@
       "name": "💡电影港",
       "type": 3,
       "api": "csp_Dygang",
-      "jar": "./jar/fix24726.jar"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/fix24726.jar"
     },
        {
       "key": "厂长影院",
@@ -131,7 +131,7 @@
       "name": "玩偶哥哥｜4K弹幕",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "./jar/spider.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -148,7 +148,7 @@
       "name": "玩偶备用｜4K弹幕",
       "type": 3,
       "api": "csp_Wogg",
-       "jar": "./jar/spider.jar",
+       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/spider.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -165,7 +165,7 @@
       "name": "欧哥｜4K弹幕",
       "type": 3,
       "api": "csp_Wobg",
-       "jar": "./jar/spider.jar",
+       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -183,7 +183,7 @@
       "name": "多多｜4K弹幕",
       "type": 3,
       "api": "csp_Wobg",
-       "jar": "./jar/spider.jar",
+       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/spider.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -199,7 +199,7 @@
       "name": "蜡笔｜4K弹幕",
       "type": 3,
       "api": "csp_Wobg",
-       "jar": "./jar/spider.jar",
+       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/spider.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -215,7 +215,7 @@
       "name": "至臻｜4K弹幕",
       "type": 3,
       "api": "csp_Wobg",
-       "jar": "./jar/spider.jar",
+       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/spider.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -232,7 +232,7 @@
       "name": "云星｜4K弹幕",
       "type": 3,
       "api": "csp_Wobg",
-     "jar": "./jar/spider.jar",
+     "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/spider.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -249,7 +249,7 @@
       "name": "木偶｜4K弹幕",
       "type": 3,
       "api": "csp_Wobg",
-     "jar": "./jar/spider.jar",
+     "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/spider.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -271,7 +271,7 @@
       "filterable": 0,
       "playerType": 2,
       "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=",
-     "jar": "./jar/巧技.jar"
+     "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/aa/refs/heads/main/jar/巧技.jar"
     }
   ],
   "lives": [
