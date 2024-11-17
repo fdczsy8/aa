@@ -1,12 +1,13 @@
 ﻿{
   "spider": "./c.jar",
   "sites": [
-      {
+     {
       "key": "豆瓣",
-      "name": "豆瓣",
+      "name": "豆瓣｜首页",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./JS/douban.js"
+      "api": "csp_Douban",
+      "jar": "./jar/牛逼.jar",
+      "searchable": 0
     },
        {
       "key": "腾讯视频",
